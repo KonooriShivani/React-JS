@@ -1,0 +1,18 @@
+.header{
+    background: linear-gradient(#ff9100, #e52e71);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px;
+    margin: 5px;
+}
+
+.header button{
+    height: 40px;
+    width: 80px;
+    color: black;
+    border: none;
+    border-radius: 4px;
+    font-size: 15px;
+    background: radial-gradient(circle, #00fea5c0, #056f3fab);
+}
